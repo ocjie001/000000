@@ -3,7 +3,7 @@
   "spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/Yoursmile.jar
 ",
   "wallpaper": "http://tool.teyonds.com/api",
-  "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
+
   "sites": [
     {
       "key": "豆瓣",
@@ -1435,3 +1435,4 @@
 
 ]
 }
+
