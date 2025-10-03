@@ -1216,6 +1216,19 @@
         "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
       ]
     },
+	   {
+      "name": "开源棋牌",
+      "hosts": [
+        "askzycdn",
+        "jkunbf",
+        "bfikuncdn",
+        "bfaskcdn"
+      ],
+      "regex": [
+        "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
     {
       "name": "一起看广告",
       "hosts": [
@@ -1311,7 +1324,7 @@
         "timeout": 16,
 
       "type": 0,
-            "url":   "https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/o",
+            "url":"https://raw.githubusercontent.com/ocjie001/000000/main/o",
    "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo" : "https://epg.112114.eu.org/logo/{name}.png",
   "core" : {
