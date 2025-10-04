@@ -1,11 +1,10 @@
 {
   "友情提醒": "资源免费，切勿付费购买。",
-  "spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/Yoursmile.jar
-",
+  "spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/Yoursmile.jar",
   "wallpaper": "http://tool.teyonds.com/api",
-
-  "sites": [
-    {
+  
+"sites": [
+	{
       "key": "豆瓣",
       "name": "豆瓣",
       "type": 3,
@@ -25,7 +24,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
+  "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
     },
     {
       "key": "公众号",
@@ -1435,5 +1434,3 @@
 
 ]
 }
-
-
