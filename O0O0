@@ -1317,7 +1317,7 @@
   "lives": [
     {
       "name": "ITV",
-
+     
        "ua":"okhttp/3.12",
   "type":0,
         "timeout": 16,
@@ -1405,7 +1405,7 @@
       "type": 3,
       "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo" : "https://epg.112114.xyz/logo/{name}.png",
-      "api": "https://git.acwing.com/ooo/oo00/-/raw/main/iptv345.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ocjie001/000000/main/iptv345.py",
       "ext": {}
     },
  {
@@ -1417,7 +1417,7 @@
     {
       "name": "快直播(广告py)",
       "type": 3,
-      "api": "https://git.acwing.com/ooo/oo00/-/raw/main/kzb.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ocjie001/000000/main/kzb.py",
  
  "epg": "http://diyp252.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
@@ -1426,7 +1426,7 @@
     {
       "name": "体育赛事（PY广告）",
       "type": 3,
-  "api": "https://git.acwing.com/ooo/oo00/-/raw/main/kzbty.py",
+  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ocjie001/000000/main/kzbty.py",
   "ext": {}
 
    }
