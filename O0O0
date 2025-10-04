@@ -1510,7 +1510,7 @@
   "lives": [
     {
       "name": "ITV",
-      "boot": true,
+ 
        "ua":"okhttp/3.12",
   "type":0,
         "timeout": 16,
@@ -1627,3 +1627,4 @@
 
 ]
 }
+
