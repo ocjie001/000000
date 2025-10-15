@@ -1,39 +1,39 @@
 {
-  "友情提醒": "资源免费，切勿付费购买。",
-  "spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/Yoursmile.jar",
-  "wallpaper": "http://tool.teyonds.com/api",
+  "友情提醒": "资源免费，曼哈顿付费购买。","友情提醒": "资源免费，切勿付费购买。",
+  "spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/Yoursmile.jar","spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/Yoursmile.jar",
+  "壁纸": "http://tool.teyonds.com/api","wallpaper": "http://tool.teyonds.com/api",
   
-"sites": [
-	{
-      "key": "豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-        "jar": "https://lz.qaiu.top/d/lz/ijfdS2y7122j"
-    },
-       {
-      "key": "配置中心",
-      "name": "配置｜中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-  "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
-    },
-    {
-      "key": "公众号",
-      "name": "移动网盘|无广",
-      "type": 3,
-   "jar":"https://lz.qaiu.top/d/lz/isqWQ2hstv0d",
-      "api": "csp_YDjisu",
-      "searchable": 1,
-      "changeable": 1
+"sites"“网站”：[[
+	{{
+      "key": "豆瓣","key": "豆瓣",
+      "name": "豆瓣","name": "豆瓣",
+      “类型”：3，"type": 3,
+      "api": "csp_豆瓣","api": "csp_Douban",
+      “可搜索”：0，"searchable": 0,
+        “jar”：“https://lz.qaiu.top/d/lz/ijfdS2y7122j”"jar": "https://lz.qaiu.top/d/lz/ijfdS2y7122j"
+    },},
+       {{
+      "key": "配置中心","key": "配置中心",
+      "name": "配置｜中心","name": "配置｜中心",
+      “类型”：3，"type": 3,
+      “api”：“csp_Config”，"api": "csp_Config",
+      “可搜索”：0，"searchable": 0,
+      “可变”：0，"changeable": 0,
+      “索引”：0，"indexs": 0,
+      “风格”： {"style": {
+        “类型”：“矩形”，"type": "rect",
+        “比率”：1.597"ratio": 1.597
+      },},
+  “jar”：“https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7”"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
+    },},
+    {{
+      "key": "公众号","key": "公众号",
+      "name": "移动网盘|无广","name": "移动网盘|无广",
+      “类型”：3，"type": 3,
+   "jar":"https://lz.qaiu.top/d/lz/isqWQ2hstv0d","jar":"https://lz.qaiu.top/d/lz/isqWQ2hstv0d",
+      "api": "csp_YDjisu","api": "csp_YDjisu",
+      “可搜索”：1，"searchable": 1,
+      “可变”：1"changeable": 1
     },
 
      {"key":"追剧","name":"线路零","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/yoursmile6/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":"7lj763gg0939791h1l2681i6g94li291li"},  
@@ -550,28 +550,7 @@
         "jar": "https://jihulab.com/yoursmile6/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "ext": "https://dm84.net"
     },
-      {
-      "key": "drpyS_短剧库[短]",
-      "name": "短剧1",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/短剧库[短]",
-        "jar": "https://lz.qaiu.top/d/lz/ijfdS2y7122j",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_星芽短剧[短]",
-      "name": "短剧2",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/星芽短剧[短]",
-      "jar": "https://lz.qaiu.top/d/lz/ijfdS2y7122j",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
+     
     {
       "key": "csp_XYQHiker_兔小贝",
       "name": "儿童┃启蒙",
