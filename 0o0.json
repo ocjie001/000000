@@ -24,7 +24,8 @@
         “类型”：“矩形”，"type": "rect",
         “比率”：1.597"ratio": 1.597
       },},
-  “jar”：“https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7”"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
+
+	"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
     },},
     {{
       "key": "公众号","key": "公众号",
@@ -628,19 +629,19 @@
  "jar": "http://m1839732.ca.caoni.ru/1/meow.php;md5;D1115D99527D75948D095085B1407ADD",
       "ext": "http://www.meowtv.cn/xp/meow.php?file=blgq"
     },
-    {
-      "key": "csp_Kanqiu",
-      "name": "看球",
+        {
+      "key": "88js",
+      "name": "⚽ 88┃看球┃直播",
       "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "gridview": 3,
- "jar":"https://jihulab.com/yoursmile6/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+			 "jar": "http://我不是.摸鱼儿.top/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
       "style": {
         "type": "list"
-      }
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
 
        {
