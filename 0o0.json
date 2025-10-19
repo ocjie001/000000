@@ -1319,7 +1319,7 @@
     {
       "name": "ITV",
       "boot": true,
-       "ua":"okhttp/3.12",
+       "ua":"okhttp/3.15",
   "type":0,
         "timeout": 16,
 
