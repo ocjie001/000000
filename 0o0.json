@@ -1320,7 +1320,7 @@
       "name": "ITV",
       "boot": true,
 		 "playerType": 2,
-            "ua": "okHttp/Mod-1.4.0.0"
+            "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
         "timeout": 16,
 
