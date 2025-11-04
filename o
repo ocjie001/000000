@@ -5603,20 +5603,20 @@ IPTV法治,http://120.87.4.10:80/PLTV/88888973/224/3221226106/100001000000000600
 广东体育（移动）,http://112.89.121.24:80/PLTV/88888973/224/3221225721/10000100000000060000000000334146_0.smil/01.m3u8fmt=ts2hls,504,01.m3u8,0,2421,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlle84poqYwpqTFTEXsmGMO:20181110091937,END&GuardEncType=2
 
 
-广东体育,,http://tcl33.xrk.top:8086/hls/42/index.m3u8
-广东体育,,http://m.061899.xyz/mg/gdty
-广东体育,,http://vallest.uk/livehttpplay?channel_id=12028
-广东体育,,http://vallest.uk/livehttpplay?channel_id=30031
-广东体育,,http://tvtj1.jxwltx.com:8003/live2915.m3u8
-广东体育,,http://rustdesk.szsun.xyz:8088/udp/239.77.0.112:5146
-广东体育,http://php.jdshipin.com/TVOD/iptv.phpid=gdty
-广东体育,http://gy.190888.xyz:5112/gdtiyu/tracks-v1a1/mono.m3u8
-广东体育,http://conghua-sslp.online:3009/广东体育/易发/hls.m3u8
-广东体育,tvbus://79LrASe1Hog39hGjie4gXrZdh9zSYuAsH8cmcWXUWygqgQPYXk#tvbus://7CcwvSPwtPvrByEuGdm8y1mYFpV5HFmzPAQPWFC7HwqQZhuLsU#tvbus://6EoYVe7aG4jnMXZXdhDa97mNnBeTPXuSQxUesJSUE1ZKMjE5MnkBZMPETaxqX#tvbus://5LXX8WcjwYMTYvEsw7wDNg9SezMaNhSmgKRpQYkvR5eJNTXxKcy66seeZQrEL#tvbus://5fEb8G9vThfeE8b3EEibQ4uXXG8me95BAqbUaBvdeUQHEdvZBG5Pav3cXvtjo
+广东体育,http://tcl33.xrk.top:8086/hls/42/index.m3u8
+广东体育,http://m.061899.xyz/mg/gdty
+广东体育,http://vallest.uk/livehttpplay?channel_id=12028
+广东体育,http://vallest.uk/livehttpplay?channel_id=30031
+广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8
+广东体育,http://rustdesk.szsun.xyz:8088/udp/239.77.0.112:5146
+广东体育http://php.jdshipin.com/TVOD/iptv.phpid=gdty
 
-广东体育,http://219.131.11.182:8188/udp/239.77.0.112:5146
-广东体育,http://home.l-ht.cn:4000/udp/239.77.0.112:5146
-广东体育,http://219.131.11.182:8188/udp/239.77.0.168:5146
+
+广东体育tvbus://79LrASe1Hog39hGjie4gXrZdh9zSYuAsH8cmcWXUWygqgQPYXk#tvbus://7CcwvSPwtPvrByEuGdm8y1mYFpV5HFmzPAQPWFC7HwqQZhuLsU#tvbus://6EoYVe7aG4jnMXZXdhDa97mNnBeTPXuSQxUesJSUE1ZKMjE5MnkBZMPETaxqX#tvbus://5LXX8WcjwYMTYvEsw7wDNg9SezMaNhSmgKRpQYkvR5eJNTXxKcy66seeZQrEL#tvbus://5fEb8G9vThfeE8b3EEibQ4uXXG8me95BAqbUaBvdeUQHEdvZBG5Pav3cXvtjo
+
+广东体育http://219.131.11.182:8188/udp/239.77.0.112:5146
+广东体育http://home.l-ht.cn:4000/udp/239.77.0.112:5146
+广东体育http://219.131.11.182:8188/udp/239.77.0.168:5146
 
 
 
