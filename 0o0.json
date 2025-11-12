@@ -965,13 +965,9 @@
 			"cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
 			"cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
 			"cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221",
-"cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn"",
+"cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn""
 
-	"hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
-    "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
-    "cdn9.163189.xyz=gcore.jsdelivr.net",
-    "cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
-    "studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com"
+	
   ],
    "flags": [
     "youku",
