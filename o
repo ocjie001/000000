@@ -6287,6 +6287,13 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 港澳,#genre#
 
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+
 凤凰中文http://148.135.93.213:81/phenix.phpid=fhzw
 凤凰资讯http://148.135.93.213:81/phenix.phpid=fhzx
 凤凰香港http://148.135.93.213:81/phenix.phpid=fhhk
@@ -6296,31 +6303,14 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 凤凰香港http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
 
 
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.phpid=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.phpid=fhzw2
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.phpid=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.phpid=fhzx2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.phpid=fhhk
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.phpid=fhhk2
 
-凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
-凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx
-凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 
-凤凰资讯,http://121.37.225.175:10346/jsyd/jsyd1212121.phpid=HD-10000k-1080P-fhzixun5s.m3u8&p=cntv
-凤凰中文,http://121.37.225.175:10346/jsyd/jsyd1212121.phpid=HD-10000k-1080P-fhchinese5s.m3u8&p=cntv
-凤凰香港,http://121.37.225.175:10346/jsyd/jsyd1212121.phpid=HD-10000k-1080P-fhhongkong5s.m3u8&p=cntv
 
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+
 
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.phpid=fhzx
@@ -6333,9 +6323,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰资讯http://121.37.225.175:10346/jsyd/jsyd2.phpid=HD-10000k-1080P-fhzixun5s.m3u8&p=cntv
-凤凰中文http://121.37.225.175:10346/jsyd/jsyd2.phpid=HD-10000k-1080P-fhchinese5s.m3u8&p=cntv
-凤凰香港http://121.37.225.175:10346/jsyd/jsyd2.phpid=HD-10000k-1080P-fhhongkong5s.m3u8&p=cntv
+
 
 
 凤凰资讯http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
