@@ -1291,7 +1291,7 @@
       "name": "ITV",
       "boot": true,
 		 "playerType": 2,
-            "ua": "okhttp",
+            "ua": "okhttp/3.12",
   "type":0,
         "timeout": 16,
 
