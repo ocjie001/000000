@@ -1019,7 +1019,7 @@
         "timeout": 16,
 
       "type": 0,
-            "url":"https://hub.gitmirror.com//https://raw.githubusercontent.com/ocjie001/000000/main/o",
+            "url":"https://raw.githubusercontent.com/ocjie001/000000/main/o",
    "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo" : "https://epg.112114.eu.org/logo/{name}.png",
   "core" : {
