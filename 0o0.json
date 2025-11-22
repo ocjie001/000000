@@ -24,7 +24,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-  "jar": "https://hub.gitmirror.com//https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
+  "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
     },
     {
       "key": "公众号",
@@ -383,36 +383,36 @@
       "key": "drpy_js_360影视",
       "name": "官源 | 360",
       "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "官源 | 爱奇艺",
       "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "官源 | 优酷",
       "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "官源 | 腾讯",
       "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "官源 | 芒果",
       "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
     },
     
  {"key":"csp_PanSearch","name":"云盘搜索1","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
@@ -528,8 +528,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/兔小贝.json"
+      "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/兔小贝.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -539,8 +539,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D2.json"
+      "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D2.json"
     },
 
 
@@ -552,8 +552,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/少儿教育.json",
-  "jar": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b"
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/少儿教育.json",
+  "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b"
     },
      {
       "key": "csp_Kugou",
@@ -1037,8 +1037,8 @@
       "name": "TV",
       "type": 0,
       "playerType": 2,
-      "url": "https://hub.gitmirror.com//https://raw.githubusercontent.com/ocjie001/000000/main/iTV%E9%85%B79.txt",
-"jar":"https://hub.gitmirror.com//https://raw.githubusercontent.com/ocjie001/000000/main/custom_spider.jar",
+      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/iTV%E9%85%B79.txt",
+"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/custom_spider.jar",
     "ua":"okhttp/3.12",
  "epg": "http://diyp252.112114.xyz/?ch={name}&date={date}",
  "logo": "https://epg.iill.top/logo/{name}.png",
@@ -1093,7 +1093,7 @@
       "type": 3,
       "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo" : "https://epg.112114.xyz/logo/{name}.png",
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
       "ext": {}
     },
    {
@@ -1101,7 +1101,7 @@
       "type": 3,
       "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo" : "https://epg.112114.xyz/logo/{name}.png",
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/ocjie001/000000/main/iptv345.py",
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/iptv345.py",
       "ext": {}
     },
  {
@@ -1113,7 +1113,7 @@
     {
       "name": "快直播(广告py)",
       "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/ocjie001/000000/main/kzb.py",
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/kzb.py",
  
  "epg": "http://diyp252.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
@@ -1122,7 +1122,7 @@
     {
       "name": "体育赛事（PY广告）",
       "type": 3,
-  "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/ocjie001/000000/main/kzbty.py",
+  "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/kzbty.py",
   "ext": {}
 
    }
