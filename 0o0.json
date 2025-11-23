@@ -305,15 +305,15 @@
         "url": "http://v.rbotv.cn"
       }
     },
-  {
-      "key": "豆豆",
+     {
+      "key": "奇异",
       "name": "线路六",
-      "type": 3,
-      "api": "csp_DouDou",
-         "jar": "http://rihou.cc:555/nzk/nzkk.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "type": 0,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://www.iqiyizyjx.com/?url="
     }, 
      {
       "key": "csp_LiteApple",
