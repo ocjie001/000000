@@ -429,53 +429,7 @@
       "filterable": 1,
       "ext": "https://yyrj.fun/bb/donghua/360donghua.js"
     },
-    {
-      "key": "lltv_MGDH",
-      "name": "芒果动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yyrj.fun/bb/donghua/mangguo.js"
-    },
-    {
-      "key": "lltv_QYDH",
-      "name": "奇艺动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yyrj.fun/bb/donghua/qiyi.js"
-    },
-    {
-      "key": "lltv_SGDH",
-      "name": "搜狗动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yyrj.fun/bb/donghua/sougou.js"
-    },
-    {
-      "key": "lltv_TXDH",
-      "name": "腾讯动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yyrj.fun/bb/donghua/tengxun.js"
-    },
-    {
-      "key": "lltv_YKDH",
-      "name": "优酷动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "ext": "https://yyrj.fun/bb/donghua/youku.js"
-    },
+    
     {
       "key": "樱花",
       "name": "动漫",
@@ -1130,3 +1084,4 @@
 
 ]
 }
+
