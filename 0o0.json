@@ -353,6 +353,7 @@
             "name": "线路九",
             "type": 3,
             "api": "csp_AppSy",
+	"jar": "http://xn--hwtam458y.icu/%E5%9B%BD%E5%BA%86%E5%B9%B8%E7%A6%8F/yimi.jar"
             "ext": {
                 "url": "",
                 "site": "http://qcb.sxtzg.com/api.txt",
