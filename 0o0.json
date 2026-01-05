@@ -36,20 +36,23 @@
       "changeable": 1
     },
 
-  {"key":"线路零","name":"爱看影视","type":3,"api":"csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar","ext":{"分类url":"https://www.lkvod.com/show/{cateId}--------{catePg}---.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}}
- {
-      "key": "八天",
-      "name": "线路一",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-"jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260104/HLI8/01011320.png;md5;c437a3d56506d16014794e7f2d682bf4",
-      "ext": {
-        "url": "https://dy.8ttv.cn",
-        "dataKey": "1111111111111111",
-        "dataIv": "1111111111111111"
-      }
-    },
+     {"key":"追剧","name":"线路零","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":"7lj763gg0939791h1l2681i6g94li291li"},  
+   {
+            "key": "稀饭app",
+            "name": "线路一",
+            "type": 3,
+            "api": "csp_Getapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	    "jar": "https://ghfast.top/https://raw.githubusercontent.com/ocjie001/000000/main/fm.jar;md5;542ed744b07121213f70323b9bcbecca",
+            "ext": {
+                "host": "https://app.xifanys.com",
+                "datakey": "HM6Ly9yeS4ya3dvL",
+                "dataiv": "HM6Ly9yeS4ya3dvL",
+                "version": "119"
+            }
+        },
  {
       "key": "潮流",
       "name": "线路二",
