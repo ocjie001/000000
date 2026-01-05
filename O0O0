@@ -1,6 +1,6 @@
 {
   "友情提醒": "资源免费，切勿付费购买。",
-  "spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/ocjie001/000000/main/Yoursmile.jar",
+  "spider":"https://ghfast.top/https://raw.githubusercontent.com/ocjie001/000000/main/Yoursmile.jar",
   "wallpaper": "http://tool.teyonds.com/api",
   
 "sites": [
@@ -24,7 +24,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-  "jar": "https://hub.gitmirror.com//https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
+  "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
     },
     {
       "key": "公众号",
@@ -36,24 +36,33 @@
       "changeable": 1
     },
 
-     {"key":"追剧","name":"线路零","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":"7lj763gg0939791h1l2681i6g94li291li"},  
-  {
-      "key": "趣看",
+       {"key":"线路零","name":"线路零","type":3,"api":"csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar","ext":{"分类url":"https://www.lkvod.com/show/{cateId}--------{catePg}---.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
+    {
+      "key": "八天",
       "name": "线路一",
       "type": 3,
-      "api": "csp_Qiji",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-        "jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
-      "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k613"
+      "api": "csp_AppGet",
+"jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260104/HLI8/01011320.png;md5;c437a3d56506d16014794e7f2d682bf4",
+      "ext": {
+        "url": "https://dy.8ttv.cn",
+        "dataKey": "1111111111111111",
+        "dataIv": "1111111111111111"
+      }
     },
-{"key":"狂风","name":"线路二","type":3,"api":"csp_Xdai","playerType":2,"searchable":1,"quickSearch":1,"filterable":1, "jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":"7lj763gg402i79425533i486k8459ljik4g1jg41k6gi0h2850784gj2lk207j5k2ji745gl8478h6h3321l84j2j7lh2li1g0562546ligk98gi74"},
+ {
+      "key": "潮流",
+      "name": "线路二",
+      "type": 3,
+	 "jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
+      "api": "csp_AppRJ",
+      "ext": "http://v.rbotv.cn"
+    },
    {
       "key": "厂长影院",
       "name": "线路三|无广",
       "type": 3,
-      "jar": "https://git.acwing.com/ooo/oo00/-/raw/main/libs/XBPQ.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/ocjie001/000000/main/XBPQ.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
@@ -289,7 +298,7 @@
       "quickSearch": 1,
       "api": "csp_Wwys",
         "jar": "https://lz.qaiu.top/d/lz/ijfdS2y7122j",
-      "ext": "https://www.wwgz.cn"
+      "ext": "https://vip.wwgz.cn:5200/"
     },
     
     {
@@ -305,7 +314,16 @@
         "url": "http://v.rbotv.cn"
       }
     },
-        {"key":"巧技三","name":"线路六","type":3,"api":"csp_Qiji","searchable":1,"quickSearch":1,"filterable":1,	"jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"},
+     {
+      "key": "奇异",
+      "name": "线路六",
+      "type": 0,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://www.iqiyizyjx.com/?url="
+    }, 
      {
       "key": "csp_LiteApple",
       "name": "线路七",
@@ -328,10 +346,33 @@
       "ext": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/剧圈圈.json",
       "click": "document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"
     },
-{"key":"云云","name":"线路九","type":3,"api":"csp_Qiji","searchable":1,"quickSearch":1,"filterable":1,"jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":"7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"},
+{
+            "key": "和友",
+            "name": "线路九",
+            "type": 3,
+            "api": "csp_AppSy",
+	"jar": "http://xn--hwtam458y.icu/%E5%9B%BD%E5%BA%86%E5%B9%B8%E7%A6%8F/yimi.jar",
+            "ext": {
+                "url": "",
+                "site": "http://qcb.sxtzg.com/api.txt",
+                "siteKey": "rectangleadsadxa",
+                "listKey": "gHSLmx3JQRasgztO",
+                "parsesKey": "gHSLmx3JQRasgztO"
+            }
+        },
 {"key":"永乐","name":"线路十","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类":"电影$1#电视剧$2#综艺$3#动漫$4","类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43","分类url":"https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}},
 
-{"key":"主角","name":"线路十一","type":3,"api":"csp_Muou","searchable":1,"quickSearch":1,"filterable":1,"jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":"7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"},    
+    {
+      "key": "HG影视",
+      "name": "线路十一",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",      
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+    },
 {"key":"天天","name":"线路十二","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":"7lj763gg0939791h1l3888jig44gi291li"},
       
       {"key":"影视大全","name":"线路十三","type":3,"api":"csp_XBPQ","jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
@@ -383,53 +424,43 @@
       "key": "drpy_js_360影视",
       "name": "官源 | 360",
       "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "官源 | 爱奇艺",
       "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "官源 | 优酷",
       "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "官源 | 腾讯",
       "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "官源 | 芒果",
       "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
     },
     
  {"key":"csp_PanSearch","name":"云盘搜索1","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 {"key":"木偶","name":"云盘搜索2","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","siteUrl":"http://123.666291.xyz","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"}},
 {"key":"盘Ta","name":"云盘搜索3","type":3,"api":"csp_PanTa","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://www.91panta.cn/","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 
-      {
-      "key": "lltv_360DH",
-      "name": "360动画",
-      "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yyrj.fun/bb/donghua/360donghua.js"
-    },
-    
+     
     {
       "key": "樱花",
       "name": "动漫",
@@ -482,8 +513,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/兔小贝.json"
+      "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/兔小贝.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -493,8 +524,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D2.json"
+      "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D2.json"
     },
 
 
@@ -506,8 +537,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/少儿教育.json",
-  "jar": "https://hub.gitmirror.com//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b"
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/少儿教育.json",
+  "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b"
     },
      {
       "key": "csp_Kugou",
@@ -966,14 +997,14 @@
  "lives": [
     {
       "name": "ITV",
- 
+
 		 "playerType": 2,
             "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
         "timeout": 16,
 
       "type": 0,
-            "url":"https://raw.githubusercontent.com/ocjie001/000000/main/o",
+            "url":"https://ghfast.top/https://raw.githubusercontent.com/ocjie001/000000/main/o",
    "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo" : "https://epg.112114.eu.org/logo/{name}.png",
   "core" : {
@@ -985,103 +1016,8 @@
       "pkg" : "com.svc.vlive.home.ytv9x",
       "sign" : "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
     }
-   },
-
-{
-      "name": "TV",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://hub.gitmirror.com//https://raw.githubusercontent.com/ocjie001/000000/main/iTV%E9%85%B79.txt",
-"jar":"https://hub.gitmirror.com//https://raw.githubusercontent.com/ocjie001/000000/main/custom_spider.jar",
-    "ua":"okhttp/3.12",
- "epg": "http://diyp252.112114.xyz/?ch={name}&date={date}",
- "logo": "https://epg.iill.top/logo/{name}.png",
-"catchup": {
-                "type": "append",
-                "replace": "livemode=1,livemode=4",
-                "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-    },
-       {
-    "name" : "tvbus直播",
-    
-  "type":0,
-    "url" : "https://web.banye.tech:7777/tvbus/yogurtTv.txt",
-
-"epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo" : "https://epg.112114.xyz/logo/{name}.png",
-    "core" : {
-      "auth" : "local://tvbus",
-      "name" : "123",
-      "pass" : "456",
-      "resp" : "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
-      "so" : "https://git.acwing.com/ooo/oo00/-/raw/main/tvbus.so",
-      "pkg" : "com.svc.vlive.home.ytv9x",
-      "sign" : "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
-    }
-      },
-      {
-      "name": "SMT直播",
-      "type": 3,
-      "api": "https://json.doube.eu.org/python/live_smt.py",
-      "ext": {}
-    },
-    {
-      "name": "悠悠直播",
-      "type": 0,
- 
-            "url":   "https://igdux.top/ZwcR",
-      "ua": "MTV;SYTV/1.6",
- "epg": "http://diyp252.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.iill.top/logo/{name}.png"
-   },
-    {
-            "name": "MyTvSuper",
-            "type": 0,
-            "url": "http://xg.52sw.top/play/mytvsuper/index-mytvsuper.php",
-            "ua": "okhttp/3.12",
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-{
-      "name": "SMT直播(py)",
-      "type": 3,
-      "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo" : "https://epg.112114.xyz/logo/{name}.png",
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
-      "ext": {}
-    },
-   {
-      "name": "IPTV345(py)",
-      "type": 3,
-      "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo" : "https://epg.112114.xyz/logo/{name}.png",
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/ocjie001/000000/main/iptv345.py",
-      "ext": {}
-    },
- {
-  "name": "咪咕体育",
-    "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
-    "ua": "judy/5.2.1"
-  }, 
-
-    {
-      "name": "快直播(广告py)",
-      "type": 3,
-      "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/ocjie001/000000/main/kzb.py",
- 
- "epg": "http://diyp252.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.iill.top/logo/{name}.png",
-      "ext": {}
-    },
-    {
-      "name": "体育赛事（PY广告）",
-      "type": 3,
-  "api": "https://hub.gitmirror.com//https://raw.githubusercontent.com/ocjie001/000000/main/kzbty.py",
-  "ext": {}
-
    }
 
 
 ]
 }
-
