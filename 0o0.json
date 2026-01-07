@@ -291,16 +291,17 @@
         }
       }
     },
-     {
-      "key": "bimoxinghe",
-      "name": "笔墨星河",
+      {
+      "key": "永夜",
+      "name": "线路四",
       "type": 3,
-      "changeable": 0,
+      "api": "csp_Xdai",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_AppYsV2",
-		   "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;5fb776bb20bc0f3b74e5ca75671e1ea8",
-      "ext": "wYceOHC6X3P3alhnB4RtmzgFD1Irln8apuUGgGt0cGNu1m3wi32g5216U4VmaeMAakuchzAtkZK4hN76RGX+SgXswlO9BU7AAQg57WGKJIWptJgUaSjRv+dsCFHAMS7NtEkaU8HcHtu3mNmXmiGVLae6KtmpbuT1razd8CkTO1A="
+      "filterable": 1,
+		         "jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+      "ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
     },
 
     
