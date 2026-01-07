@@ -291,17 +291,17 @@
         }
       }
     },
-       {
-            "key": "洽洽视",
-            "name": "线路四",
-            "type": 3,
-           "jar": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
-            
-            "api": "csp_AppGZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+     {
+      "key": "bimoxinghe",
+      "name": "笔墨星河",
+      "type": 3,
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppYsV2",
+		   "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;5fb776bb20bc0f3b74e5ca75671e1ea8",
+      "ext": "wYceOHC6X3P3alhnB4RtmzgFD1Irln8apuUGgGt0cGNu1m3wi32g5216U4VmaeMAakuchzAtkZK4hN76RGX+SgXswlO9BU7AAQg57WGKJIWptJgUaSjRv+dsCFHAMS7NtEkaU8HcHtu3mNmXmiGVLae6KtmpbuT1razd8CkTO1A="
+    },
 
     
     {
