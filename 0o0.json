@@ -291,17 +291,16 @@
         }
       }
     },
-      {
-      "key": "永夜",
+          {
+      "key": "主角",
       "name": "线路四",
       "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
+      "api": "csp_Muou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-		         "jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
-      "ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
+        "jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
     },
 
     
