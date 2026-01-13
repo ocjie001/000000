@@ -43,7 +43,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-"jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260104/HLI8/01011320.png;md5;c437a3d56506d16014794e7f2d682bf4",
+"jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260112/HFvc/01121528.png;md5;b0cc188b2ee7cd70fb69028944d7a012",
       "ext": {
         "url": "https://dy.8ttv.cn",
         "dataKey": "1111111111111111",
@@ -291,16 +291,13 @@
         }
       }
     },
-          {
-      "key": "主角",
+    {
+      "key": "农民影视",
       "name": "线路四",
       "type": 3,
-      "api": "csp_Muou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-        "jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
-      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
+      "api": "csp_Wwys",
+"jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260112/HFvc/01121528.png;md5;b0cc188b2ee7cd70fb69028944d7a012",
+      "ext": "https://vip.wwgz.cn:5200"
     },
 
     
@@ -349,20 +346,19 @@
       "ext": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/剧圈圈.json",
       "click": "document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"
     },
-{
-            "key": "和友",
-            "name": "线路九",
-            "type": 3,
-            "api": "csp_AppSy",
-	"jar": "http://xn--hwtam458y.icu/%E5%9B%BD%E5%BA%86%E5%B9%B8%E7%A6%8F/yimi.jar",
-            "ext": {
-                "url": "",
-                "site": "http://qcb.sxtzg.com/api.txt",
-                "siteKey": "rectangleadsadxa",
-                "listKey": "gHSLmx3JQRasgztO",
-                "parsesKey": "gHSLmx3JQRasgztO"
-            }
-        },
+    {
+      "key": "茉莉",
+      "name": "线路九",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+  "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260112/HFvc/01121528.png;md5;b0cc188b2ee7cd70fb69028944d7a012",
+      "ext": {
+        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      }
+    },
 {"key":"永乐","name":"线路十","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类":"电影$1#电视剧$2#综艺$3#动漫$4","类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43","分类url":"https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}},
 
     {
