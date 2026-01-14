@@ -24,7 +24,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-  "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
+  "jar": "https://ghfast.top/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
     },
     {
       "key": "公众号",
@@ -423,36 +423,36 @@
       "key": "drpy_js_360影视",
       "name": "官源 | 360",
       "type": 3,
-      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "官源 | 爱奇艺",
       "type": 3,
-      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "官源 | 优酷",
       "type": 3,
-      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "官源 | 腾讯",
       "type": 3,
-      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "官源 | 芒果",
       "type": 3,
-      "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
     },
     
  {"key":"csp_PanSearch","name":"云盘搜索1","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
@@ -482,27 +482,114 @@
         "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "ext": "https://dm84.net"
     },
-      {
-      "key": "drpyS_短剧库[短]",
-      "name": "短剧1",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/短剧库[短]",
-        "jar": "https://lz.qaiu.top/d/lz/ijfdS2y7122j",
-      "searchable": 2,
+       {
+      "key": "聚合短剧",
+      "name": "🈴聚合短剧",
+      "type": 3,
+      "api": "csp_JuheShortDrama",
+      "searchable": 1,
       "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
+      "switchable": 0,
+      "ext": {
+        "host": {
+          "锦鲤": "https://api.jinlidj.com",
+          "番茄": "https://reading.snssdk.com",
+          "番茄2": "https://fqgo.52dns.cc",
+          "星芽": "https://app.whjzjx.cn",
+          "星芽登录": "https://u.shytkjgs.com",
+          "西饭": "https://xifan-api-cn.youlishipin.com"
+        },
+        "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+      }
     },
+
     {
-      "key": "drpyS_星芽短剧[短]",
-      "name": "短剧2",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/星芽短剧[短]",
-      "jar": "https://lz.qaiu.top/d/lz/ijfdS2y7122j",
-      "searchable": 2,
+      "name": "🍩甜圈短剧",
+      "key": "甜圈短剧",
+      "type": 3,
+      "api": "csp_TQdjAmns",
+      "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "ext": ""
+      "changeable": 1,
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+    },
+     {
+      "name": "🎦豪堪短剧",
+      "key": "豪堪短剧",
+      "type": 3,
+      "api": "csp_HHkkAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+    },
+    {
+      "name": "📺盒马短剧",
+      "key": "盒马短剧",
+      "type": 3,
+      "api": "csp_HemaAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+    },
+    {
+      "name": "🎞️拜拜短剧",
+      "key": "拜拜短剧",
+      "type": 3,
+      "api": "csp_BddjAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+    },
+    {
+      "name": "🐠锦鲤短剧",
+      "key": "锦鲤短剧",
+      "type": 3,
+      "api": "csp_JLdjAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+    },
+    {
+      "name": "🐱喵喵短剧",
+      "key": "喵喵短剧",
+      "type": 3,
+      "api": "csp_QmdjAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+    },
+    {
+      "name": "⭐星星短剧",
+      "key": "星星短剧",
+      "type": 3,
+      "api": "csp_XydjAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+    },
+    {
+      "name": "🎂岁岁短剧",
+      "key": "岁岁短剧",
+      "type": 3,
+      "api": "csp_SpdjAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
     },
     {
       "key": "csp_XYQHiker_兔小贝",
@@ -512,8 +599,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/兔小贝.json"
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/兔小贝.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -523,8 +610,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D2.json"
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D2.json"
     },
 
 
@@ -536,8 +623,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/少儿教育.json",
-  "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/少儿教育.json",
+  "jar": "https://ghfast.top/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b"
     },
      {
       "key": "csp_Kugou",
