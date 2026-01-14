@@ -482,26 +482,7 @@
         "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "ext": "https://dm84.net"
     },
-       {
-      "key": "聚合短剧",
-      "name": "🈴聚合短剧",
-      "type": 3,
-      "api": "csp_JuheShortDrama",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "host": {
-          "锦鲤": "https://api.jinlidj.com",
-          "番茄": "https://reading.snssdk.com",
-          "番茄2": "https://fqgo.52dns.cc",
-          "星芽": "https://app.whjzjx.cn",
-          "星芽登录": "https://u.shytkjgs.com",
-          "西饭": "https://xifan-api-cn.youlishipin.com"
-        },
-        "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
-      }
-    },
+     
 
     {
       "name": "🍩甜圈短剧",
@@ -1107,3 +1088,4 @@
 
 ]
 }
+
