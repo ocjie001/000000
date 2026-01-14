@@ -45,6 +45,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+ "spider": "https://chuanshuo.77blog.cn/chuanshuo.jar;md5;a0bca472da42c05997d50e6fb3e95d24",
       "ext": {
         "请求头": "手机",
         "主页url": "https://www.yirenmeng.com",
