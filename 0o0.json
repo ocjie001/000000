@@ -37,30 +37,16 @@
     },
 
        {"key":"lkvod","name":"线路零","type":3,"api":"csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar","ext":{"分类url":"https://www.lkvod.com/show/{cateId}--------{catePg}---.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
-   {
-      "key": "番茄",
+      {
       "name": "线路一",
+      "key": "TnewGr",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_TnewGrAmns",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
- "jar": "https://chuanshuo.77blog.cn/chuanshuo.jar;md5;a0bca472da42c05997d50e6fb3e95d24",
-      "ext": {
-        "请求头": "手机",
-        "主页url": "https://www.yirenmeng.com",
-        "数组": "",
-        "标题": "title=\"&&\"",
-        "副标题": "class=\"module-info-item\">&&</div>",
-        "链接": "",
-        "简介": "",
-        "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
-        "线路标题": "<span>&&</small>[替换:</span><small>>>(共]+集)",
-        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "跳转解析": "默认$https://jx.shipinbofang.net:55666/player/jiexi.php?code=5566jiexi&if=1&url=",
-        "分类url": "https://www.yirenmeng.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/[https://www.yirenmeng.com/vodtype/{cateId}/];;rc",
-        "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#4K$4kdianying"
-      }
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
     },
  {
       "key": "潮流",
