@@ -37,17 +37,22 @@
     },
 
        {"key":"lkvod","name":"线路零","type":3,"api":"csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar","ext":{"分类url":"https://www.lkvod.com/show/{cateId}--------{catePg}---.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
-      {
-      "name": "线路一",
-      "key": "TnewGr",
-      "type": 3,
-      "api": "csp_TnewGrAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
-    },
+        {
+            "key": "稀饭app",
+            "name": "线路一",
+            "type": 3,
+            "api": "csp_Getapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+			 "jar": "http://fmys.top/lib/fm.jar;md5;542ed744b07121213f70323b9bcbecca",
+            "ext": {
+                "host": "https://app.xifanys.com",
+                "datakey": "HM6Ly9yeS4ya3dvL",
+                "dataiv": "HM6Ly9yeS4ya3dvL",
+                "version": "119"
+            }
+        },
  {
       "key": "潮流",
       "name": "线路二",
