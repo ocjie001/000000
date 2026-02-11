@@ -37,17 +37,16 @@
     },
 
        {"key":"lkvod","name":"线路零","type":3,"api":"csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar","ext":{"分类url":"https://www.lkvod.com/show/{cateId}--------{catePg}---.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
-           {
+             {
+      "key": "奇异",
       "name": "线路一",
-      "key": "TnewGr",
-      "type": 3,
-      "api": "csp_TnewGrAmns",
+      "type": 0,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
       "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
-    },
+      "playurl": "json:https://www.iqiyizyjx.com/?url="
+    }, 
     {
             "key": "稀饭app",
             "name": "线路二",
