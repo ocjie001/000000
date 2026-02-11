@@ -12,19 +12,16 @@
       "searchable": 0,
         "jar": "https://lz.qaiu.top/d/lz/ijfdS2y7122j"
     },
-       {
-      "key": "配置中心",
-      "name": "配置｜中心",
+           {
+      "key": "ConfigCenter",
+      "name": "🅿网盘配置中心",
       "type": 3,
-      "api": "csp_Config",
+      "api": "csp_ConfigCenter",
       "searchable": 0,
       "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-  "jar": "https://ghfast.top/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7"
+      "ext": {
+        "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+      }
     },
     {
       "key": "公众号",
