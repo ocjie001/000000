@@ -37,9 +37,20 @@
     },
 
        {"key":"lkvod","name":"线路零","type":3,"api":"csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/spider.jar","ext":{"分类url":"https://www.lkvod.com/show/{cateId}--------{catePg}---.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
-        {
+           {
+      "name": "线路一",
+      "key": "TnewGr",
+      "type": 3,
+      "api": "csp_TnewGrAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
+    },
+    {
             "key": "稀饭app",
-            "name": "线路一",
+            "name": "线路二",
             "type": 3,
             "api": "csp_Getapp",
             "searchable": 1,
@@ -53,14 +64,6 @@
                 "version": "119"
             }
         },
- {
-      "key": "潮流",
-      "name": "线路二",
-      "type": 3,
-	 "jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
-      "api": "csp_AppRJ",
-      "ext": "http://v.rbotv.cn"
-    },
    {
       "key": "厂长影院",
       "name": "线路三|无广",
