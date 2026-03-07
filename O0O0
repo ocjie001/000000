@@ -337,7 +337,16 @@
       "changeable": 1,
       "playurl": "json:https://www.iqiyizyjx.com/?url="
     }, 
-    {"key":"低端","name":"线路七","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/低端影视.json"},
+     {
+      "key": "csp_LiteApple",
+      "name": "线路七",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+         "jar":"https://lz.qaiu.top/d/lz/ijfdS2y7122j"
+    },
         {
       "key": "剧圈圈",
       "name": "线路八",
@@ -351,18 +360,21 @@
       "click": "document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"
     },
     {
-      "key": "茉莉",
-      "name": "线路九",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-  "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260112/HFvc/01121528.png;md5;b0cc188b2ee7cd70fb69028944d7a012",
-      "ext": {
-        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
-      }
-    },
+            "key": "奇奇弹幕版",
+            "name": "线路九",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "jar":"https://gitee.com/senno/tvbox/raw/master/jar/tw.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "QiQi",
+                "danmu": true
+            },
+            "timeout": 10
+        },
 {"key":"永乐","name":"线路十","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":  "https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类":"电影$1#电视剧$2#综艺$3#动漫$4","类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43","分类url":"https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}},
 
     {
@@ -980,7 +992,7 @@
  "lives": [
     {
       "name": "ITV",
-
+      "boot": true,
 		 "playerType": 2,
             "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
