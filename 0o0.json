@@ -993,7 +993,7 @@
     {
       "name": "ITV",
       "boot": true,
-		 "playerType": 2,
+		
             "ua": "Goiptv/8.8.8",
   "type":0,
         "timeout": 16,
