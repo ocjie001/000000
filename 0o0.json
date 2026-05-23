@@ -106,16 +106,7 @@
         "url": "http://v.rbotv.cn"
       }
     },
-     {
-      "key": "奇异",
-      "name": "线路六",
-      "type": 0,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
-      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "playurl": "json:https://www.iqiyizyjx.com/?url="
-    }, 
+ 
      {
       "key": "csp_LiteApple",
       "name": "线路七",
