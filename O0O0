@@ -307,32 +307,7 @@
         ]
       }
     },
- {
-      "key": "mxmv",
-      "name": "明星┃ MV ",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
- "jar": "http://m1839732.ca.caoni.ru/1/meow.php;md5;D1115D99527D75948D095085B1407ADD",
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=mxmv"
-    },
-    {
-      "key": "blgq",
-      "name": "哔哩┃歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
- "jar": "http://m1839732.ca.caoni.ru/1/meow.php;md5;D1115D99527D75948D095085B1407ADD",
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=blgq"
-    },
+
    {"key":"csp_Kanqiu","name":"⚾看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
         {
       "key": "有声小说js",
@@ -748,7 +723,7 @@
  "lives": [
     {
       "name": "ITV",
-    
+   
 		 "playerType": 2,
             "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
