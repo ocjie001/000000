@@ -55,17 +55,15 @@
       "ext": "be125714a2413f05151fea6864509533510fc41478de761606ce64420a9d786d1766ef0968b7cb1b0b380f8d47aaca283235fd63fd19e6ac57a9a71acecc969aedb960608e1d3e2cbaa9365220d19d30711243c747442f77c21fb19b804bde8323048bc73a0ef5d5231c028e694e97122e1bfe3caf778c49dc767622f6c7cfbb12a8feb3154ad53971859304e2d7a50f24558396a1b0f9879420f15416fcd1a44fea822c8e63ddff22f6775663ea26e49ce810481083bfaebae58790814c6c91aedd7cf8d50237a5a22bed49bff6cbe937fc907cf5ce771643461426b40fc79aed7595a6b33e1942d6e93db30da5a10c6e9593dec0ea5cb378cd8a4d90c296b90aa9679a3a791a281abf5fef54ed0c3ba822bfb84d5a48fb97f9ceb65e5be0bd30a4604169f671c543a0d6a4154aee4de66de0baee995b3d9ebd02260d5c4032b8dc191de5e50dc10a5be44405c848e71ef2f7fac85814542927d39a3c5fea40a14e96688c9f4b6f5a62c949e69c66616e7ac0a24b02a746fe6257de3a5325af8f915dd59d3f75ee830ac427fd5c9c136d371beb2ae7233e21ebef3beb0b67d6ae3b8a4b4878da5bd88913145b4dd79754bb0fe8cb19ef8a547355c4795b0bd372296b3ae08227e3a8c8da641b2aad8a545863cbab2da7edf6c48fee21610ace6e05ca511fead0993d23a3a2e720b32fe86da616b34f94874f67bbd3d94b46b207487101453982db864b8aa24c6ff3326999cfbf6328c5ce176c1a01f16802ea4f615016c4a7c8bd401ee726d81f94ad56b9efe12c00e668dfdfc4f820347f71de5b36546b773f6717766c79a01611fe3c5427c6ac4c68f6d8e32b4a5400c4467ba7990c4738b6b021fcc04446eee3b473baa938bece5e1b3b5379eb7d5d079186cfe16ee6fe51202e5b90c18f59569a75944b2e932d68bb8cf9cab437f6176ab85c8b26eedfe59e5b6130b1aab2e49419d7ec0037fd83a5af3d7483bbe8d4e0e8d3033ec3db68a7c78f9100bffee32cb0247e8b647e94838f767f01cfee1a2b9836ac26a389e7340f584fbb0a8600c2ffea100993ae78fb92593ffc41211e0dda196d9d1450a3f22a56af9f4aab61c33dd3744e395aad6527687d0b0df5db85cadb66bc1bafc6bdbde8b640863433192bf091be8e148d421eca44aa1997ce4396965f3724cea8b45b416394ac32ad68cbcc6ad02cfa44bbabda8bad7c5daabe45eac86d0a8d2b203a1924d82fc3ea360436fda1a650e5a7cce58becff50eb2176a4dd90f58887b6fdb15398eefd8968ed2d859d9fd4c0c078522009ce90b59a84903d75a9fbb391deb0f3cab655b9d79e5f43b26323e7086090877472bdf01f580b4a5ead9c0ca008fdd8cba8d50641a6824daf8d0f4c992ca8c1b99723bd1b7a0c69432aca4e892096f1063a06b068127684b82e5a677f272dd45551c01a4c5f0a6e9b6fd26d871f9fd1045b65565a709cb0545882fcc593b885d29f47df475b8b1cf4f95ff61c31252f503924113c52fa72ea655e9245bce5e73427558c5fbf33a933c549dfdca79259fb8eb77d648c5f4813af11ef876e0fd65b16d3989f6d88da1026b0e53e1116e6243727dbd3a264c77d18ff7f194075f9d59f26e983276317f4dce4d2daa69538ac0c034f27f042a5595809f00945117562f16aec2501010d1b7f5521c264c1bddf8a150f5b8fde0aa5630665dc332ab2f3e490b01c7328693f22d98db1ff9599a44930cf14cec95490229c3cbf8eb9e4d083cb77cd50fe806fe469dcf3201822980b222d596e9ceb43375dd00ebc9721e344baf29f84b56000835a364cac6da64abf75f2f1fb890e24549b7b7d28874668b2463d2e790a6dda9a7d3ba00160296fa6f565436df4164bfa739161c8415a0b88c3da5b80f6439fb67e1d6aba0b8c1db798fe967334c574b9919727fb639d6cecb1f2a2a4d4c52fc3c9514efaae17b1d5c14ba1f52847c50025d1ea38cc2da904fb14f0690491ccaf4838e5a28c92a7536d735fa42a283373de3e7781201f9d7f198642f6356fc1d806f5ffa82dc79c114c70fef7e4cfd422c976f51168dd7633a0dadbac3270b9943c9b5254c1dac5688fe0f7213a3f",
       "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
     },
- {
+  {
+      "key": "潮流",
       "name": "线路二",
-      "key": "柚子",
       "type": 3,
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "3d1e5714a2413f05151fea6864509533510f64888873c9014549547c4b35cb1adeee20e0d57ba3751a77a841c05ab07707cfd47e5ce58300c4d76a63b36769f5ca194cdd372e6467113c881d77e743db16d7abe2ebd99e610047bc3a54b53b4f7bede852c8e349a047965ceded596e9c7cdb344a399e97218a77fdb81e930db1d2f09f2d4c2be1d6c471c80699fc615e8ec072aba54e4f79e9c56aeaa4461e497c6c381b699686935bb9dddf708e9d482bfc16e5aeae6235094fb4d8fa6741ca8318b2520013ff54ab8cb1203d078e4b8dc78abd041b48191ec6893734015fd08d2f4ebc76193de569e55f74a5397c5ea4213b9345bd027ac2986c63ce65636cd7f91f9d30d1ad37b9b4d6de92d545a1545924904a7a4c1b06d181b5dda5f13df8fd20d812125da97f030cf56d088e4ba52a074f50fabccfade34dc57f3c03ca2dc2231bca5a56800380d95dfa36f2cd731c7bd3c7cb97c8d3a027226b7841694066964d2811f51dcdcf51b44eec61fe79b3f778f338ac061b89290367806e3639e3e632c4422005eef3805f21c7c6eb2252646bdbd5fd668956526496a4927b626c15bd74d80fc0a58dd2647e719a0a8d21fd207b69b1c775523b08c70a3dee2aea403e66d607c91b2105eecc7a5ca1779451053760a9ef708a626174bef4e4d14fcbef3c59000a137848cfe87ffcb5406e6612998c20962d531104c94b68b5114051fcf3c647ea8a2665b0f35e6e5f06f8d654d2945d53660a7268ec4e606c1ac91c1d4a33234e8c10e9cb4fc33fbda28d2a51f9378b2a42ce4c3f36deb8dd8456137ea629fa56b51423ba2cc77e1dc446bb399b2b34d46ded47e6031ae0a48ff8007485a5d332b2b4fd4341447524d146a158717fac4ffcfb0684785f7e2fda78ce8f1ab57104edad3e787ef181308a87b302511bc8c1cd013b8300fc9420bf3b95c4b248388fdec739da889b46400def0e45efd17f3782fe86ce385e5deb50202d99901cf65453b6bd4b19a341d81cf64d04599dd80bdeb725c0a1704b6959c13c63c3633ba58a4f4a15e1381b61a78253acad57051986e1c78c22583e14feb3a7883817bd9f44b61d97b199a0548da74d8d42fd5bdbce1f9aade63089e148e67f8199a54929f8ab7ebbf657cd2991e8b0424fbdc12a298dac718d8d16aad08fa48a6f2f3acfa6158a25dbdb08e3f743190797ec02b917f0660089c2b0c6656c90c60f4b967878658dffab59cee978122150f0911712dbe1856cec69ea475c470bfd15b3ebb5a7326d73fd576f456d7b1eafed6fb264e0a38594998377d62b8d617ae6808f739ab11d4d62c940b80010622a569a207ec81f54644e137f0f569e1c75032c246e5056437423f0a1ced626875c928d763c88f986568f2329b787381634e6687c2d52412919208e08220979c6f7467cea0f867ea032d502e77cb8dd3a8198c32f85a355a18228695a1baea2d79647c497a8382d7dab6418a05e54c6c10407f4a91d54f895fe8ddd46008c48fb3adbed3bd5ee3c382b8ccb50089677cf87d77b1a2b1921b04a02c3c569aacaec3b1e63d36a00e6877436a09be267ab1efef4e6cc5313f83eb976b043a25837e558d26b4c116354dbd7df6d6c35a172379831183ecffcea78d347223bc4d31e1a67535bc620c016b91b32f9d1e009672fb95eeb4aa307d6fbe98d5b4e6387df5486097d4a7307b025606c9fb6a7e83d1614ffa8742c907065781d65f1ccfecd52a6c474b38e8e40d3ae9c2d624ed44e94ac3656166b372410f7ad81fdd59388aa79f6eefa6509c7e430135c5ed18538565c0a93e7bc2abbc05ee018764466fcae61d31587c9ced6eb530993edffcab13f833a19b81f0c008b7ffc5fae56c580d15451a4431a3d95035e7036ca63ff95e1aa96c22f6ed0c633d0f2984098f4639f5e501c0efab202f9d15abd54cac54fecf335b751c363fa967ebeffea3571b215e40cc3dde3d097e9d1f7e8f43c22cd8444496c82d2264309f48d7cdc2a72fa6ecb6046cfa3b1a28f758c252b6fe2756dd87030a13fb0b3554c985bcec9d5c68bbd8e140712e3da62c21714c740d3aee893d89d8ed89e881cad96fc0c62289d142c7c5e45d08c7f362af467e3fcd256b39139d767c6457ea6a93530d350ebca8c1d72c1fd044368b519f2704b49bb7db8320314be5f96310df6ed5970fcbaca8c5790f4fa2727ebc7d6e166292d20620d352db84c6b715d22920703ad6f6a93112c9c4d1072612d40e6a4cef63e78ccbcd290da7084e36df0a073502d05e40ca43afeeedca2d91f9a55095da0fcca774e75ce5b16ea40ff00ced03a3adfbce5f738de8bd66222cc2488ba282c6fda512959c26203aa28845cef8d351a434dd089779d548fe1f95b9a35d56caa7ff7ba864dea86af17cd27459471865f9954ceb2a2043cb1eef09bc416c9e3f346730cd1256bd725a68acf53ee96156f678961a0e283aaa24f7cf58fd417bc1428fab366d890c40de1e913eb83cf55cde9ff4b9cf5cb4cae2d29b3cecfe2a8f9bc32ebc0a47430bbbfc0afd6be8e5a785d2cbd58452f69ccab0fe9a818922a624cb5dc2458e1c605a0485f0c6f3d1095f23f9b0c4db2580570e24251fcc4aa92d80d67553cce5d80f25ff996a413ea8cb2f7cceb83a0b001185ce7cd7735a01b31e15451740595a7bc61babe2b7e86dd3189469b97c9d3571ac6d822282b7f2194838fc404bfe90c0b2e3bf0c14744af6f8f0759e7c3ed02b277d2e1d29f453e75ba752d7bed7f5a891ebf7df375a8623ff2e297dc8294179aedfb86ee3b7eac45bb1d8c4f0acb86d023c4d36484349372a942bb797426e9e70fd16382c0457f0e3dad5e9df09f284d4d1703161744ae97335a84b6ec39ac0de44373e2237e0cf38979b66ae446ddd3bcb537bb2cb0c989de07598561c01fd90e4759de175c9ed926cc42b49be531ec209a3c13c11ad6903b7dfe1b3a267437c73777004f159ddb8c59c9e55692a75c147fd03e3e31b9156d95d3f46b61ac0d86d8417c2e1605d0c3aee82ba62942e8007e2d",
-      "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
+	 "jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
+      "api": "csp_AppRJ",
+      "ext": "http://v.rbotv.cn"
     },
+
 {
       "name": "线路三",
       "key": "Czzy",
@@ -92,13 +90,18 @@
       "ext": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/农民影视.json"
     },
 
-      {
-      "key": "王子",
+{
+      "key": "热播影视",
       "name": "线路五",
       "type": 3,
-      "api": "csp_Xdai",
-  "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
-      "ext": "7lj763gg402i7942503g9g9jk909jji3g0li9j088291253h4k141gggkk41435h43924kg6ik48i0856j01k882glkh4kllg538704jl5k4j1gl27j321g03lll"
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://lz.qaiu.top/d/lz/ijfdS2y7122j",
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
     },
    
      {
@@ -145,6 +148,47 @@
       
       {"key":"影视大全","name":"线路十三","type":3,"api":"csp_XBPQ","jar":  "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
 
+  
+    {
+      "key": "drpy_js_360影视",
+      "name": "官源 | 360",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "官源 | 爱奇艺",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "官源 | 优酷",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "官源 | 腾讯",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "官源 | 芒果",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+    },
+    
+ {"key":"csp_PanSearch","name":"云盘搜索1","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
+{"key":"木偶","name":"云盘搜索2","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","siteUrl":"http://123.666291.xyz","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"}},
+{"key":"盘Ta","name":"云盘搜索3","type":3,"api":"csp_PanTa","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://www.91panta.cn/","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
+
     {
       "key": "csp_Wogg",
       "name": "多云盘|无广",
@@ -187,48 +231,7 @@
           "threads": 10
         }
       }
-    },
-    {
-      "key": "drpy_js_360影视",
-      "name": "官源 | 360",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "官源 | 爱奇艺",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "官源 | 优酷",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "官源 | 腾讯",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "官源 | 芒果",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
-    },
-    
- {"key":"csp_PanSearch","name":"云盘搜索1","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
-{"key":"木偶","name":"云盘搜索2","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","siteUrl":"http://123.666291.xyz","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"}},
-{"key":"盘Ta","name":"云盘搜索3","type":3,"api":"csp_PanTa","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://www.91panta.cn/","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
-
-     
+    }, 
     {
       "key": "樱花",
       "name": "动漫",
@@ -304,7 +307,32 @@
         ]
       }
     },
-
+ {
+      "key": "mxmv",
+      "name": "明星┃ MV ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+ "jar": "http://m1839732.ca.caoni.ru/1/meow.php;md5;D1115D99527D75948D095085B1407ADD",
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=mxmv"
+    },
+    {
+      "key": "blgq",
+      "name": "哔哩┃歌曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+ "jar": "http://m1839732.ca.caoni.ru/1/meow.php;md5;D1115D99527D75948D095085B1407ADD",
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=blgq"
+    },
    {"key":"csp_Kanqiu","name":"⚾看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
         {
       "key": "有声小说js",
