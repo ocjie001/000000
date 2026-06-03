@@ -55,7 +55,7 @@
       "ext": "be125714a2413f05151fea6864509533510fc41478de761606ce64420a9d786d1766ef0968b7cb1b0b380f8d47aaca283235fd63fd19e6ac57a9a71acecc969aedb960608e1d3e2cbaa9365220d19d30711243c747442f77c21fb19b804bde8323048bc73a0ef5d5231c028e694e97122e1bfe3caf778c49dc767622f6c7cfbb12a8feb3154ad53971859304e2d7a50f24558396a1b0f9879420f15416fcd1a44fea822c8e63ddff22f6775663ea26e49ce810481083bfaebae58790814c6c91aedd7cf8d50237a5a22bed49bff6cbe937fc907cf5ce771643461426b40fc79aed7595a6b33e1942d6e93db30da5a10c6e9593dec0ea5cb378cd8a4d90c296b90aa9679a3a791a281abf5fef54ed0c3ba822bfb84d5a48fb97f9ceb65e5be0bd30a4604169f671c543a0d6a4154aee4de66de0baee995b3d9ebd02260d5c4032b8dc191de5e50dc10a5be44405c848e71ef2f7fac85814542927d39a3c5fea40a14e96688c9f4b6f5a62c949e69c66616e7ac0a24b02a746fe6257de3a5325af8f915dd59d3f75ee830ac427fd5c9c136d371beb2ae7233e21ebef3beb0b67d6ae3b8a4b4878da5bd88913145b4dd79754bb0fe8cb19ef8a547355c4795b0bd372296b3ae08227e3a8c8da641b2aad8a545863cbab2da7edf6c48fee21610ace6e05ca511fead0993d23a3a2e720b32fe86da616b34f94874f67bbd3d94b46b207487101453982db864b8aa24c6ff3326999cfbf6328c5ce176c1a01f16802ea4f615016c4a7c8bd401ee726d81f94ad56b9efe12c00e668dfdfc4f820347f71de5b36546b773f6717766c79a01611fe3c5427c6ac4c68f6d8e32b4a5400c4467ba7990c4738b6b021fcc04446eee3b473baa938bece5e1b3b5379eb7d5d079186cfe16ee6fe51202e5b90c18f59569a75944b2e932d68bb8cf9cab437f6176ab85c8b26eedfe59e5b6130b1aab2e49419d7ec0037fd83a5af3d7483bbe8d4e0e8d3033ec3db68a7c78f9100bffee32cb0247e8b647e94838f767f01cfee1a2b9836ac26a389e7340f584fbb0a8600c2ffea100993ae78fb92593ffc41211e0dda196d9d1450a3f22a56af9f4aab61c33dd3744e395aad6527687d0b0df5db85cadb66bc1bafc6bdbde8b640863433192bf091be8e148d421eca44aa1997ce4396965f3724cea8b45b416394ac32ad68cbcc6ad02cfa44bbabda8bad7c5daabe45eac86d0a8d2b203a1924d82fc3ea360436fda1a650e5a7cce58becff50eb2176a4dd90f58887b6fdb15398eefd8968ed2d859d9fd4c0c078522009ce90b59a84903d75a9fbb391deb0f3cab655b9d79e5f43b26323e7086090877472bdf01f580b4a5ead9c0ca008fdd8cba8d50641a6824daf8d0f4c992ca8c1b99723bd1b7a0c69432aca4e892096f1063a06b068127684b82e5a677f272dd45551c01a4c5f0a6e9b6fd26d871f9fd1045b65565a709cb0545882fcc593b885d29f47df475b8b1cf4f95ff61c31252f503924113c52fa72ea655e9245bce5e73427558c5fbf33a933c549dfdca79259fb8eb77d648c5f4813af11ef876e0fd65b16d3989f6d88da1026b0e53e1116e6243727dbd3a264c77d18ff7f194075f9d59f26e983276317f4dce4d2daa69538ac0c034f27f042a5595809f00945117562f16aec2501010d1b7f5521c264c1bddf8a150f5b8fde0aa5630665dc332ab2f3e490b01c7328693f22d98db1ff9599a44930cf14cec95490229c3cbf8eb9e4d083cb77cd50fe806fe469dcf3201822980b222d596e9ceb43375dd00ebc9721e344baf29f84b56000835a364cac6da64abf75f2f1fb890e24549b7b7d28874668b2463d2e790a6dda9a7d3ba00160296fa6f565436df4164bfa739161c8415a0b88c3da5b80f6439fb67e1d6aba0b8c1db798fe967334c574b9919727fb639d6cecb1f2a2a4d4c52fc3c9514efaae17b1d5c14ba1f52847c50025d1ea38cc2da904fb14f0690491ccaf4838e5a28c92a7536d735fa42a283373de3e7781201f9d7f198642f6356fc1d806f5ffa82dc79c114c70fef7e4cfd422c976f51168dd7633a0dadbac3270b9943c9b5254c1dac5688fe0f7213a3f",
       "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
     },
- {
+  {
       "key": "潮流",
       "name": "线路二",
       "type": 3,
@@ -63,6 +63,7 @@
       "api": "csp_AppRJ",
       "ext": "http://v.rbotv.cn"
     },
+
 {
       "name": "线路三",
       "key": "Czzy",
@@ -89,8 +90,7 @@
       "ext": "https://git.yylx.win/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/农民影视.json"
     },
 
-    
-    {
+{
       "key": "热播影视",
       "name": "线路五",
       "type": 3,
@@ -103,6 +103,7 @@
         "url": "http://v.rbotv.cn"
       }
     },
+   
      {
       "key": "奇异",
       "name": "线路六",
@@ -113,19 +114,18 @@
       "changeable": 1,
       "playurl": "json:https://www.iqiyizyjx.com/?url="
     }, 
-{
-      "key": "小黄人",
+   {
       "name": "线路七",
+      "key": "小黄人",
       "type": 3,
       "api": "csp_AppV7Amns",
       "searchable": 1,
-      "filterable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "8e87288565eb2ea7fcb9caa81e70fa9b13ee58fa569055a61c9e79bba88fe5c391421b3ca4cd95f22c4525ebb86572f18cb0ba7f0c18c1ca092cfc7924e1c6545d7416dcbf0dcfa46c2fdcf8a895bd3560566d0d31bbde8abb8b794be3e7d6dcb1010be46631da347ed70992759b75471d56735bc14c972c305dad27f2bf34ef0aec02d247fa86c48992f94701827d9fbbc9314dc39625e16a3f4c64b26cc19d4a36fc792c1151490f4c1d323278226fb85955fde03f5fb8daea329b95ce4da83ae500a4706b4a98b119bd07f1174f76a623f617f31d992c886ae4a7701199048f2a1c5a8b04ff1db5e938adc01e2fef147cde98af47cf249e905f6c24e1ee3316142b136173aab5946a15db1d014146f5e9f0c735e354b6343f3c7d9a34682176cd0fdae5ff36b7121dd3b8382b62877115e38fc74c69996915cbf8def6dc3a48bc92f826912d39e8b9d2761a225a96d3a8c270e49ff46598983f7b9486dda2444c03b4d09cdd142f379c86b515894cf5cb8116410a511eff63a697af3f6a675614cd163bbb9e7c98c0d966dcd6db6ca8716e7d9454f1831134c4c08f94f3f54a46d578aa7d4248a7797685879c4b884b54038ae5af46de8112dd662c73a07560afb279b2af34a94cb430cdf527e293eba34a8c37b93c01f561548415aa06b81436eeb9c084d5ea622d545c7903c972a60b5da4465819404db678d375ebee15953a0e0c99a4de7a164e6b2b3489e38beb3184f638abf665461c1db2ee9d8dc4b119cb5699b42467eed9c7503903d9c20b36f629146ac2aa9c50c57ef277ea3576cfbf2192f68422b8eb5a54a18da58bf3037d25ec57b77de001d51021b3ce84b3136583dd86ed457dddd936a4dfe39353c429f350a0d414870a3b4bd32cc83a6885d1ce1f00df52456c96a66871ea4dd5b0c040212910a0c4caff898f748a7a96c2119497369252a7335e8c3f393a81619dc91071713a69f62be6e7c8f4bc85cbb0d2fee0352a77082ef697b78f7df74a9481608a1e31a182386445a1ef84420d145d92dfb4e65dcdb840723a31a0db639531636ab916e05c347ec5751b19e01a5e556a126a223f9890d7e0e07fda9af3496bdbff9d0b604684f9b9ae1f31976b3fe6bf586a6a011f5ea5775250816288ca471233b3a41597d0a7b916024f46ffe920fb4672f08dc9e8f227f4d5ad8563cd4fe268e92e59c52acc5671332a89f9fbd830daf4744775550dbc18fa7cd911462333ea17cf92e339263de4dfbdc561e518d43d034f088780efa9402ad0cce991e1aff0b5462806be0a147b193fd749f418bcf0951d0867b55884c76c20793e9fd7f08efc8404d74893b670e16e0f97f010740c608abc74d53f3bdc04375fa7eb80d6b5df3daf329741a42069da4a7fdf99a0d80cd17a2ebdd008e99df5cd73e5d0f6cef65cc6f3fbda0e33131f00872ab64f1bb0eedb8902db30e2f76c571596b7c96df9ec0b1716c3b62093eb5d258d81f038d1eb6df6c9ef4f5958e7038532746b6ac12bc7f9e9f817298145507df57823d464f843373d0eec6e636807c7ca37fd0e80cd1a2d57952ecad4e323e061b44771815500ff7ba4c96f0be74d5f144d74c23ea83d9852f52f6239c0629828741db3bd7cff82826f35ec45e93bc890173c02586969f6e9aa31ec3db8adf48b693dca2c80ea628de9f9167240e8f241fbc18516413e5e1433954fb884e44c84f119f3ff6cc131ad7213d1e4cc5a05b6f0ff26e36cbfb479c49e77f9846c8eba32b560312aaf4ca43a63c22408e6a4bb02cc9fbe5e3ee8899faee8d7230ff539de7e92deab0b9fe8988857c8450effc377d3bf0fc95a87ba88aec6bc2c1795120b52a32fe2d3a1ab189c256b38492727e4e946ca751907a6d0c65f189142b58381961d68e26d68bd60cb0d00c9fa0a94f9bfd034e8abecabda38e40717c0998a0f84d75e6f316e5d4312a3e744f62265945823f16cd78bc841f2a697c52cf0f9fa515b5a37e904fe20858dcebdbbba8bc90033e9e695337ffc876551b713ffc187a6301b773f90aa8098a587d56456deb109d95ccf64ce80c91881acae7b76c5e1ef2e29b8cdb193195211424fa8d482d1c895d48bc4c9f29ac6b71f6fef22577ba5681157481dece0f78e444fe8ea89113ae4dda5737e6f1c727c1199eae241c306d9a4ec8d0ba6fa2f4a106f8191da4fcc0fda8d024564d4ee489aa3f5923adea0b087753768353e856f934b1ecfb8300519b22e418f1a8d16e3c543f85a3476fbb8cfeb3bc8a0a0773a33aa05d7e828257469b0fb5cceff5fe37dda44b70b734d0bd2db428fc20f4a5bc0a3b3c4e8eabf8806f7fd2c87e1f7a8cdd30c773d0e0c61a116aebc717455f94f41083f3f64db452890c4c300bba13039a80585729cf0a84f69673e0d8d8edf569734203dd64613b294340e74a4373c89b3edaafbba719a040728de78ac9157b83e09fda1c82662c9bdfd4a74843e7cd95b5e77c7d98e0f6af095e3d317ccdf16bffd64375cc2ed9d7d0f97e0683be4d58394b1e9303de2654a2e0e26d4006113c9e2bad3273ddccc854cff792cbd80dc3da7f2239ec055287aa1a4d3ef1773c1eb43e77ba639e41fc1c291802f5d096a08a8bc9bbfbfd84c578871addaf62013c954558cb169bcc58d542527a69fefb5d6dc69bfa2b17621fa2388020b320208c7d251465d125140f10d8d600ea200102f715e669456a995053678055b8497cc5bd849eed0b0986e80c4436c048c45f066b10a46a371925641b034b79a18917e20091fde61c37d9bd50a4d44b3cf4dc8a3d561075b4ab1d7855cedbb522c349bfd234eb4e0c78d36129851347e239c2ed8044d8457dcbf1567f71c3ec6860d3a6ac9417cfe81d5b4541e77f58016f3add61c6dc5a947c9cc2da7e4dbb707095ac94a25b7c2967f09e133d09a99e8283302c0a3db719dcd74c21aefc98fb8988e13884b1ebd89e78f43c021af2ad59deefcfbac091d3c2c5be9f382202e9d6f03e13b085c3bcb3d11f1738e6a0e",
+      "changeable": 0,
+      "ext": "77625714a2413f05151fea6864509533510f6448b0786a559e217e817f97d8199e9741f4158be7dfe4b298df32c7c552cb2608c70a3d74f572531b1d88c2b79e4e9ef9ab94ba4aabc9ef3e313d0996d373d99436537b6a14c5b8ce4c52dc56f24789d9246defca59f674ed08596cd4291296f41a9a15cfe21187017c745f276dd9581457a7be4a6311ded29e32cf7e3c725ca381c2124df2efe32ea2635c2c4bc0396e23c465fa39129633b2ae52179a73fa16caa82f06330126964f52f5bc5e1ea1051f2971616f59c0124edffa4cf9393d688b0805906aa2c2c3ccf747ff9d8d79565f68b92a248f06892404645a610f0f997595132fd7f4c4a95170de97e1127ef6b2f42879858650adff2e431080db9fb282ca0cd00223b3664307746b9703e6decc322eb9152d9614acf4799150eda3cd579132894125b4e79a20b87acf03c9dbe7b5de66466b1d0c1741241b23b0ab16c407da21b79197a3320c9b17f029cc3c827a30c2b9079f12cd927273bda043212a145a05fbd29fa3b2a4913576b89d42f635962f8c9e8894e5b4381bfbffcc11e4ec7933ffb73b38a37e602b4f145e73212e30fabfe1f55f9490521899dc605d2f55e2399e54a745c6f90fbebf68a5e6eb1eadd418f3f27fd3a9c0ffaf213485f4261e8660690c5c9ebff03136a11db25280627bef40d8b4a2ad97a54ec5be76caca4c8ec34e11d376d38c5568228c7aa1de7dba1f75c5d3243bf141ba383bde34bd172e5c2572559f58bc346c206a4fd7774ef694652270189fddfef5df9ed2fcc4d4d5aad2761de5db2decfd116890eff4c9e8bf824faaabce9ba82db00a23f004a2635edd17137cb6066734810eeceb54aaf456d628a68250ad2ca521145b6f34c6952261ec48676eb7f33f3864af504995ad3519df1aaf94fae2ecff45010c18a2b94fbefb70a11d159da18fefc0c532cec871b193b9c16f71bb3592e66debce93bd6f27ac90367557fd2581b6c5e753741be33fa395bccd12f5b46194913455fc7a55bd830947e7ae12121be940b4d3db268d86e818af941b9871c901631212847f3daa1a1a4749f3fbdd6c656e415fb56be521a255cfa8962564af05e4fae6f63b3daa45f9535234a37ec0100b5dff01d5dade917b3b9c954562f024a7faac38d22209298096617e4a0bbc9bc2e4168a2fc73ba2e08052ca5fd97c33e7a04ba3c36001a8668ac0e593d803672f8378cea5be6abdb861bd61f3ee7892b158f01667dcd437b552ef89789586d0a350a7699b1bd468a72b84bc2ca79f279d7ef330aba7b1637d83c12cec05bb9b645a22eeacd726c2d35e1a4b0f40e56ce0fa052432bdf90531ca9a0d2814fd5253d690c4270e343c70da7070bbb7203a456e543acca10f2f36c298cbd8581c212d21ce0575cc5b00eb2105845db998619d5d715ea5ed318a820e0f722154bdf31e7745b273a407e1783264c63fc75df83849f2901df377ab8e37cba5f184a454d3270baa744653f9c0645bade4ced4be504c916a329e16497a83e1904f8b466077e234f073ec017ec57ce4dfbeb77f343fd1e1504db97a15d3aea54ec6b8b2db7ac1d77c5ae1c9897a9b929b663de9c3cbb5edf699210acf4aff4454458b8638d6a63e79da538d1023725b8b3ea59921450cd82a94aad999aa784eb4d95b3ead2702a1fe6bc7fb2ad0ff158d880b0c0ebae2ab16c7023d33c00e10baf9decd8e1a159fc2476ab895da7cbe9e681f8e69ffe165de00984c0ef2b33df7f266a17cf0f215f389b9e74a446c5cec2a2511f818ad46dc98c9160efb53e8071d52352b187eae01000af46bc61e983573e45a319f75953311503b15f91131deb0c4edb505bcb568c2b00996f32245a2ec2fb0ab36b06da7c3407e0dbc1a31b95af1c70e94660d156066ef4d64da07ca60062b9c520c1925497361b2b0326bf97cef0f670fd7b7613be5c7e6bd09a0601be19726fd1b58dde0843353d1348d45ff27f97330a09b1d1e2a79bd38bbb5d9e8b71f994c8de236d3e00fd16beb3ec1f5feea3a30e2952423ce865024daea1996128c67e502b191dd63827836c8d86d0cf349214d758e63bc15f6d5d13f242e5cb9026eded5818a00187d6d9e7773f7b15cfeb59fe7935c37468b2730705ba5c1f2598ef4e0454487cb0c279d55c9e5d9212124cd4faafe2aa79f300e0d00625202ec2b1eafce4a271d466f374a0a7521d6256ccda7b5e6cc9be36aa8e816255c01cd1f1cad4ba341d22d15f9b9bd91951854de7a5b60f8aa55adcbd1fc4d855d1bc57e881dfa787456dcd962a8a4b0fbc7031eaccbd222a33cda87f1425aa54bbb785ddcd5e1b1dba39941949637df4eb3c90faa09026a3a67799a7ad26827bb37311b9c15b718cee930cc4cffe448a0e48a11910ea8c94e4bedab16b4b518eeee1897ebb825668be93ad3c276cb4d80620188c22c4b93a756cce67d79847311a26152c3bc8eebc4422575dfd5a2e8dadb4cc12180daa3b3fca2f4771ab8dfbe2d31fc2eebce0c908a16305d9d62f85492c3d643def9c14dab28fa35dad254ae57eb451acde010ee8476b26780994aa02417298e2fc65c788563bcb8c1ca33530025b36fc8e28ee046a53a808cba6f644cd530ef6944f373063604ebe936a82426efcbd296e8991e7b6812b3f065f711f10fe9fec8af69e234b274e5a053c3a574f14a825451fabb4d7cabf0b27e390a3141e15fd7f9079f933b9d3cd3a9a1c1b2da4101ecc36d6c1fa3c2892d4e1bbe643704299bd122d9f962fd00147f49d0124310e3fa0cc517da3535b7bae5488020e1d3e39039f66b67193fee21dcb5c3080ceeb6589ad57f543e0d9af523768ba04889c4242c787a6d3264a7aaae572fc713703ef28e7349d1339303de98ed542820ec9d0d62103e4554b8de9fb13f5abaa02ac8f765c1d5407bd54126561a65cd640b149e989bc839da476bb235eee48cfd4b426e7ea81ab1f7a2cf6f0cdd700cdcaf68c3d262a1dc04778525e5576d25297d460cf278a9cd0d51ba",
       "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
     },
-          {
+    {
       "key": "首发",
       "name": "线路八",
       "type": 3,
@@ -147,6 +147,47 @@
 {"key":"天天","name":"线路十二","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar":  "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":"7lj763gg0939791h1l3888jig44gi291li"},
       
       {"key":"影视大全","name":"线路十三","type":3,"api":"csp_XBPQ","jar":  "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
+
+  
+    {
+      "key": "drpy_js_360影视",
+      "name": "官源 | 360",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "官源 | 爱奇艺",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "官源 | 优酷",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "官源 | 腾讯",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "官源 | 芒果",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+    },
+    
+ {"key":"csp_PanSearch","name":"云盘搜索1","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
+{"key":"木偶","name":"云盘搜索2","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","siteUrl":"http://123.666291.xyz","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"}},
+{"key":"盘Ta","name":"云盘搜索3","type":3,"api":"csp_PanTa","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://www.91panta.cn/","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 
     {
       "key": "csp_Wogg",
@@ -190,48 +231,7 @@
           "threads": 10
         }
       }
-    },
-    {
-      "key": "drpy_js_360影视",
-      "name": "官源 | 360",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "官源 | 爱奇艺",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "官源 | 优酷",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "官源 | 腾讯",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "官源 | 芒果",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
-    },
-    
- {"key":"csp_PanSearch","name":"云盘搜索1","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
-{"key":"木偶","name":"云盘搜索2","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","siteUrl":"http://123.666291.xyz","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"}},
-{"key":"盘Ta","name":"云盘搜索3","type":3,"api":"csp_PanTa","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://www.91panta.cn/","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
-
-     
+    }, 
     {
       "key": "樱花",
       "name": "动漫",
@@ -748,7 +748,7 @@
  "lives": [
     {
       "name": "ITV",
-   
+    
 		 "playerType": 2,
             "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
