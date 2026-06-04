@@ -307,9 +307,8 @@
         ]
       }
     },
-
 {"name":"体育","key":"BbkqLive","type":3,"api":"csp_BbkqLiveAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
-  {"name":"体育2","key":"GuaziLive","type":3,"api":"csp_GuaziLiveAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
+ {"name":"体育2","key":"GuaziLive","type":3,"api":"csp_GuaziLiveAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"体育3","key":"FeiqLive","type":3,"api":"csp_FeiqLiveAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 
         {
