@@ -310,7 +310,19 @@
 {"name":"体育","key":"BbkqLive","type":3,"api":"csp_BbkqLiveAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
  {"name":"体育2","key":"GuaziLive","type":3,"api":"csp_GuaziLiveAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"体育3","key":"FeiqLive","type":3,"api":"csp_FeiqLiveAmns","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
-
+{
+      "key": "多多",
+      "name": "看球",
+      "type": 3,
+      "api": "csp_DoubaoGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+ "jar": "https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg;md5;c1bb8166a36306e250f791897717deb0",
+      "style": {
+        "type": "list"
+      }
+    },
         {
       "key": "有声小说js",
       "name": "有声┃小说",
