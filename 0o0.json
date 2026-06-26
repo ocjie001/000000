@@ -14,7 +14,7 @@
     },
            {
       "key": "ConfigCenter",
-      "name": "🅿网盘配置中心",
+      "name": "网盘配置中心",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
