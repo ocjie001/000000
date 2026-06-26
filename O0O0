@@ -14,7 +14,7 @@
     },
            {
       "key": "ConfigCenter",
-      "name": "🅿网盘配置中心",
+      "name": "网盘配置中心",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
@@ -407,10 +407,7 @@
 			"uhibo.com",
 			".*boku.*",
 			".*nivod.*",
-			".*ulivetv.*",
-   "188766.xyz",
-    "4gtv.tv",
-    "iill.top"
+			".*ulivetv.*"
 		],
  "hosts": [
   "cache.ott.*.itv.cmvideo.cn=39.135.132.221",
@@ -699,15 +696,6 @@
         "video/tos/cn"
       ]
     },
-  {
-      "name": "七新嗅探",
-      "hosts": [
-        "api.52wyb.com"
-      ],
-      "regex": [
-        "m3u8?pt=m3u8"
-      ]
-    },
     {
       "name": "夜市",
       "hosts": [
@@ -715,17 +703,6 @@
       ],
       "script": [
         "document.getElementsByClassName('vjs-big-play-button')[0].click()"
-      ]
-    },
- {
-      "name": "饭团点击",
-      "hosts": [
-        "dadagui",
-        "freeok",
-        "dadagui"
-      ],
-      "script": [
-        "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"
       ]
     },
     {
@@ -760,21 +737,18 @@
         "新片首发",
         "UUE29"
       ],
- 
+
 
    "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-rangeupport","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurateeek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}]
 
-   }
+    }
 
   ],
-  "ads": [
-    "mozai.4gtv.tv"
-  ],
-  
+
  "lives": [
     {
       "name": "ITV",
-  
+     
 		 "playerType": 2,
             "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
