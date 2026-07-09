@@ -156,36 +156,36 @@
       "key": "drpy_js_360影视",
       "name": "官源 | 360",
       "type": 3,
-      "api": "https://gh-proxy.org/ https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/ https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "官源 | 爱奇艺",
       "type": 3,
-      "api": "https://gh-proxy.org/ https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/ https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "官源 | 优酷",
       "type": 3,
-      "api": "https://gh-proxy.org/ https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/ https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "官源 | 腾讯",
       "type": 3,
-      "api": "https://gh-proxy.org/ https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/ https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "官源 | 芒果",
       "type": 3,
-      "api": "https://gh-proxy.org/ https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.org/ https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
     },
     
  {"key":"csp_PanSearch","name":"云盘搜索1","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"https://gh-proxy.org/ raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
@@ -275,8 +275,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/ https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-      "ext": "https://gh-proxy.org/ https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/兔小贝.json"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/兔小贝.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -286,8 +286,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/ https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
-      "ext": "https://gh-proxy.org/ https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D2.json"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D2.json"
     },
 
 
@@ -299,8 +299,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.org/ https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/少儿教育.json",
-  "jar": "https://gh-proxy.org/ https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/biliext/少儿教育.json",
+  "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b"
     },
      {
       "key": "csp_Kugou",
@@ -752,7 +752,7 @@
    "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo" : "https://epg.112114.eu.org/logo/{name}.png"
  
-   }
+   }，
 
 ]
 }
