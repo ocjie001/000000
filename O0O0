@@ -393,14 +393,7 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
 		}   
 	}],
- "headers": [
-        {
-            "host": "gslbserv.itv.cmvideo.cn",
-            "header": {
-                "User-Agent": "okhttp/3.12.13"
-            }
-        }
-    ],
+
 "proxy": [
 			"raw.githubusercontent.com"
 		
@@ -748,7 +741,7 @@
  "lives": [
     {
       "name": "ITV",
-         
+     
 		 "playerType": 2,
             "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
