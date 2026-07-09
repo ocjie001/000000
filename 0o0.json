@@ -402,8 +402,8 @@
         }
     ],
 "proxy": [
-			"raw.githubusercontent.com",
-			
+			"raw.githubusercontent.com"
+		
 		],
  "hosts": [
   "cache.ott.*.itv.cmvideo.cn=39.135.132.221",
@@ -753,13 +753,13 @@
             "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
         "timeout": 16,
-  "type":0,
+
 
             "url":"https://gh-proxy.com/https://raw.githubusercontent.com/ocjie001/000000/main/o",
    "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo" : "https://epg.112114.eu.org/logo/{name}.png"
  
-   }
+   }，
 
 ]
 }
