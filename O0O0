@@ -33,7 +33,7 @@
       "changeable": 1
     },
 
-{
+  {
       "key": "橘汁",
       "name": "线路零",
       "type": 3,
@@ -41,6 +41,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+"jar":"https://jihulab.com/yoursmile7/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "ext": {
         "appName": "橘汁",
         "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
@@ -53,7 +54,7 @@
         "decrypt": "1"
       }
     },
-   {
+    {
       "key": "华谊",
       "name": "线路一",
       "type": 3,
@@ -61,6 +62,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+"jar":"https://jihulab.com/yoursmile7/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "ext": {
         "appName": "华谊",
         "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
@@ -132,7 +134,7 @@
       "changeable": 1,
       "playurl": "json:https://www.iqiyizyjx.com/?url="
     }, 
-  {
+     {
       "key": "薯条",
       "name": "线路七",
       "type": 3,
@@ -140,6 +142,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+"jar":"https://jihulab.com/yoursmile7/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "ext": {
         "appName": "薯条影视",
         "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
@@ -768,7 +771,7 @@
  "lives": [
     {
       "name": "ITV",
-   
+       
 		 "playerType": 2,
             "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
