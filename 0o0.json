@@ -33,7 +33,7 @@
       "changeable": 1
     },
 
-{
+  {
       "key": "橘汁",
       "name": "线路零",
       "type": 3,
@@ -53,7 +53,7 @@
         "decrypt": "1"
       }
     },
-   {
+    {
       "key": "华谊",
       "name": "线路一",
       "type": 3,
@@ -132,7 +132,7 @@
       "changeable": 1,
       "playurl": "json:https://www.iqiyizyjx.com/?url="
     }, 
-  {
+     {
       "key": "薯条",
       "name": "线路七",
       "type": 3,
