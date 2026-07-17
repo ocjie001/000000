@@ -783,7 +783,7 @@
    "epg" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo" : "https://epg.112114.eu.org/logo/{name}.png"
  
-   },
+   }
 
 ]
 }
