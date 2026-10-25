@@ -166,20 +166,15 @@
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
     },
-      {
-      "key": "面包",
+    {
       "name": "线路九",
-      "api": "csp_XBPQ",
+      "key": "Woshinidie",
+      "type": 3,
+      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
+      "api": "csp_Woshinidie",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
-        "简介": "简介：&&"
-      }
+      "changeable": 1
     },
  {
       "key": "追剧吧",
@@ -805,7 +800,7 @@
  "lives": [
     {
       "name": "ITV",
-          
+    
 		 "playerType": 2,
             "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
