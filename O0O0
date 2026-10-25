@@ -88,10 +88,10 @@
       "type": 3,
       "api": "csp_CzzyAmns",
       "searchable": 1,
-      "filterable": 1,
       "quickSearch": 1,
-      "ext": "Czzy",
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "changeable": 1,
+      "ext": "Czzy"
+ "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png;md5;d93049ba6615eab01b69a52ff03c02c9",
     },
       {
       "key": "农民",
@@ -800,7 +800,7 @@
  "lives": [
     {
       "name": "ITV",
-    
+          
 		 "playerType": 2,
             "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
