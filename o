@@ -696,7 +696,7 @@ CCTV-卫生健康,http://198.204.228.26/live/wsjk.m3u8
 
 
 
-央视频4,#genre#,DE=3
+央卫4,#genre#,DE=3
 CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 CCTV-2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 CCTV-3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
@@ -763,7 +763,7 @@ CCTV-卫生健康,http://bztv.tvbus.cc:8081/cdnlive/wsjk.m3u8
 云南卫视,http://bztv.tvbus.cc:8081/cdnlive/ynws.m3u8
 浙江卫视,http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8
 
-央视频5,#genre#,DE=3
+央卫5,#genre#,DE=3
 CCTV-1综合,http://173.208.212.130:8181/720p/cctv1.m3u8
 CCTV-2财经,http://173.208.212.130:8181/720p/cctv2.m3u8
 CCTV-3综艺,http://173.208.212.130:8181/720p/cctv3.m3u8
