@@ -1,6 +1,6 @@
 {
   "友情提醒": "资源免费，切勿付费购买。",
-  "spider":"https://jihulab.com/yoursmile77/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+  "spider":"https://jihulab.com/yoursmile77/TVBox/-/raw/master/Yoursmile.jar;md5;2fe20a9210f68dec7863a0b31a2b85d4",
   "wallpaper": "http://tool.teyonds.com/api",
   
 "sites": [
@@ -33,7 +33,7 @@
       "changeable": 1
     },
 
-    {
+ {
       "key": "橘汁",
       "name": "线路零",
       "type": 3,
@@ -44,12 +44,12 @@
       "ext": {
         "appName": "橘汁",
         "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
+        "dataKey": "ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.mxj.wylcjbxyx",
+        "pkg": "com.asjdhjhd.mgd.p3",
         "host": "",
         "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "3.0.2.4",
+        "version": "3.0.7.0",
         "decrypt": "1"
       }
     },
@@ -91,7 +91,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "ext": "Czzy",
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
       {
       "key": "农民",
@@ -167,14 +167,24 @@
       }
     },
     {
+      "key": "华谊",
       "name": "线路九",
-      "key": "Woshinidie",
       "type": 3,
-      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
-      "api": "csp_Woshinidie",
+      "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": {
+        "appName": "华谊",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "V04XQZNYRWN6T0JODZFIAG5CTZB3PT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.lxf.sncgtzxyx",
+        "host": "",
+        "site": "https://1851089669.cdn.123clouddisk.com/1851089669/44107727",
+        "version": "6.0.0.1",
+        "decrypt": "0"
+      }
     },
  {
       "key": "追剧吧",
@@ -303,7 +313,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
      {
       "key": "csp_Dm84",
@@ -387,7 +397,7 @@
       "quickSearch": 0,
       "changeable": 1,
       "ext": "GuaziLive",
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
     {
       "name": "飞球体育",
@@ -397,7 +407,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
     {
       "name": "88体育",
@@ -408,7 +418,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "BbkqLive",
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
     {
       "name": "咖啡体育",
@@ -418,7 +428,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
 {"name":"体育","key":"BbkqLive","type":3,"api":"csp_BbkqLiveAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw","jar":"https://zl.wpscdn.cn/2026/06/16/space_img/2fb1f359-7eef-4545-b2d7-bd0b2f9aaa4a.png"},
  {"name":"体育2","key":"GuaziLive","type":3,"api":"csp_GuaziLiveAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com","jar":"https://zl.wpscdn.cn/2026/06/16/space_img/2fb1f359-7eef-4545-b2d7-bd0b2f9aaa4a.png"},
@@ -843,7 +853,7 @@
  "lives": [
     {
       "name": "ITV",
-           "boot": true,
+          "boot": true,
 		 "playerType": 2,
             "ua": "okHttp/Mod-1.4.0.0",
   "type":0,
